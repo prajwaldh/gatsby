@@ -2,9 +2,11 @@
 
 The main Gatsby site at gatsbyjs.org
 
-Run locally with:
-
+To run the website:
+- `cd www`
 - `yarn install`
+- `gedit .env.development` (Optional: Needed to run the website fast)
+>GATSBY_SCREENSHOT_PLACEHOLDER=true
 - `npm run develop`
 
 See the full contributing instructions at https://www.gatsbyjs.org/docs/how-to-contribute/.
